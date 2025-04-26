@@ -62,7 +62,7 @@ Puedes crear un archivo `.py` por módulo o por tema dentro de cada módulo para
 Una vez que tengas Python instalado y un archivo `.py` guardado (por ejemplo, `tu_primer_programa.py`), puedes ejecutarlo desde la terminal:
 
 ```bash
-python mi_programa.py
+python tu_primer_programa.py
 
 ```
 🤝 Contribuciones
