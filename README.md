@@ -64,7 +64,7 @@ Una vez que tengas Python instalado y un archivo `.py` guardado (por ejemplo, `t
 ```bash
 python mi_programa.py
 
-
+```
 🤝 Contribuciones
 
 Este curso es un punto de partida. Si encuentras errores, tienes sugerencias para mejorar las explicaciones o ejemplos, o te gustaría añadir más ejercicios básicos, ¡tus contribuciones son bienvenidas! Puedes abrir un "Issue" o enviar un "Pull Request" si este contenido estuviera en un repositorio de código (como GitHub).
