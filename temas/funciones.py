@@ -1,4 +1,4 @@
-#  fincion sencillas
+#  funcion sencillas
 
 def saludar():
     """Esta función simplemente imprime un saludo.""" # Esto es un docstring, explica qué hace la función
